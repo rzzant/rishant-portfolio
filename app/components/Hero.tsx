@@ -11,7 +11,7 @@ export default function Hero() {
       </h1>
 
       <p className="text-gray-500 mt-6 tracking-widest">
-        BACKEND DEVELOPER
+        FULL STACK  DEVELOPER
       </p>
 
       <p className="text-gray-500 mt-4">
